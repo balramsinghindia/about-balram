@@ -46,7 +46,10 @@
 -	Contentful
 
 ## Pipeline:
+![Pipeline](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/Screen%20Shot%202019-07-19%20at%202.08.29%20PM.png "Pipeline")
+
  
 
 ## UI components:
- 
+![UI components](https://github.com/balramsinghindia/tempfiles/blob/main/Capture.PNG?raw=true "UI components")
+
