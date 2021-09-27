@@ -53,3 +53,12 @@
 ## UI components:
 ![UI components](https://github.com/balramsinghindia/tempfiles/blob/main/Capture.PNG?raw=true "UI components")
 
+
+## an Entrepreneur who has run 
+- An e-commerce marketplace
+- An online News Portal
+- A workshop organization for Engineering students.
+- A digital Agency to scale online e-commerce business for many famous clothes, accessories, shoes, foods, books and electronics brands.
+- An online Indian railway portal that provides live status of trains along with many other features like reminding before x time you reach to your destination and alert if you are getting late to catch your train.
+
+
