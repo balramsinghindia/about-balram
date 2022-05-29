@@ -1,4 +1,4 @@
-# about-balram
+# About Balram
 
 ## Architectures and Libraries created from scratch:
 - React based architecture
