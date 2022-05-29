@@ -55,6 +55,7 @@
 
 
 ## an Entrepreneur who has run 
+- Technology training agency
 - An e-commerce marketplace
 - An online News Portal
 - A workshop organization for Engineering students.
