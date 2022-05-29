@@ -1,7 +1,7 @@
 # About Balram
 
 ## Architectures and Libraries created from scratch:
-- React Native based Webapp
+- React Native apps
 - Next JS based Backend architecture
 - React JS, Contentful webapp integrated with Algolia advance search
 - React based architecture
@@ -11,6 +11,7 @@
 - Python based architecture
 - React JS based Design System / UI component library
 - Email templates
+- Gatsby with Contentful 
 
 ## Platform:
 - Bit-bucket pipeline
