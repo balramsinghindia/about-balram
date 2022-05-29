@@ -1,16 +1,25 @@
 # About Balram
 
 ## Architectures and Libraries created from scratch:
+- React Native based Webapp
+- Next JS based Backend architecture
+- React JS, Contentful webapp integrated with Algolia advance search
 - React based architecture
 - jQuery Based architecture
-- Multiple React apps based architecture
 - React and jQuery mixed architecture
 - Express JS based architecture
 - Python based architecture
-- Lloyds UI library based on React JS
-- New South wales components library based on React and jQuery UI components
+- React JS based Design System / UI component library
 - Email templates
-- CI and CD Pipelines 
+
+## Platform:
+- Bit-bucket pipeline
+- Docker
+- Kubernetes
+- AWS S3
+- AWS Root53
+- AWS Elastic
+- AWS Cognito
 
 ## Architectures used other than above:
 -	React, Typescript and Contentful based
