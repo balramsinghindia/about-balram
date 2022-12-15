@@ -26,6 +26,7 @@
 -	React, Typescript and Contentful based
 
 ## Talks:
+- React JS and Performance - October 2022 - React World Conference - Remote
 -	Inclusive Design in A11y camp conference at International Convention Centre, Darling Harbour
 -	Gatsby with Contenful in React Sydney meetup 
 -	Web Accessibility  - London
