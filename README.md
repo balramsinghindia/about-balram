@@ -26,8 +26,9 @@
 -	React, Typescript and Contentful based
 
 ## Talks:
+- GenAI in 2024 - React Melbourne Meetup group - In Person
 - React JS and Performance - October 2022 - React World Conference - Remote
--	Inclusive Design in A11y camp conference at International Convention Centre, Darling Harbour
+-	Inclusive Design in A11y camp conference at International Convention Centre, Darling Harbour, Sydney
 -	Gatsby with Contenful in React Sydney meetup 
 -	Web Accessibility  - London
 -	Web Accessibility with React - London
@@ -66,6 +67,7 @@
 
 
 ## an Entrepreneur who has run 
+- A outdoor media agency
 - Technology training agency
 - An e-commerce marketplace
 - An online News Portal
